@@ -30,7 +30,7 @@ https://lab.karpov.courses/certificate/84477da5-68aa-42ee-b651-78bcdbec4a26/en/
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  
+  <img src="https://img.shields.io/badge/redash-white?logo=redash&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
 </div>
 
 ### :metal: Experience in:
