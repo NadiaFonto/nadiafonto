@@ -17,7 +17,7 @@ https://www.coursera.org/account/accomplishments/professional-cert/4VRJ2739PZM2
 https://lab.karpov.courses/certificate/84477da5-68aa-42ee-b651-78bcdbec4a26/en/
 </ul>
 
-### :hammer_and_wrench: Языки и инструменты :
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
