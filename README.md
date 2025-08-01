@@ -46,6 +46,6 @@ https://lab.karpov.courses/certificate/84477da5-68aa-42ee-b651-78bcdbec4a26/en/
 ### :book: Projects:
 |Project| Description | Stack |
 |----------------|-----------------|-----|
-|[MarketPlace Analysis](https://github.com/NadiaFonto/Marketplace_Analysis)|/Cohort analysis, calculation of retention and other product metrics, hypothesis evaluation using the ICE framework|**Pandas** **Numpy** **Seaborn**|
+|[MarketPlace Analysis](https://github.com/NadiaFonto/Marketplace_Analysis)|Cohort analysis, calculation of retention and other product metrics, hypothesis evaluation using the ICE framework|**Pandas** **Numpy** **Seaborn**|
 |[A/B–Test](https://github.com/NadiaFonto/AB-Test)|Data loading (API), processing, evaluation of product metrics (CR, ARPPU) for control and test groups, hypothesis testing and statistical significance analysis, conclusions and recommendations|**Pandas** **Scipy** **Python** **Requests**|
 
