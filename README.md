@@ -1,8 +1,8 @@
 ### About me:
-Data Analyst in the oil & gas exploration sector with experience in Python, SQL, Excel, Power BI, and specialized software for subsurface data analysis (Petrel, Hampson-Russell).
-Geostatistical analysis of geological and geophysical data to predict the location of oil and gas reservoirs.
-Skilled in data visualization and dashboard creation.
-To deepen my analytics expertise, I completed the IBM Data Analyst professional certificate and a Data Analyst Course from Karpov.Courses.
+Data Analyst with a technical background and experience in the oil & gas industry.
+Currently focused on advancing in product and data analytics. Skilled in Python, SQL, Excel, and BI tools, with expertise in data visualization and interactive dashboard development. 
+Fluent in English (B2–C1) and Spanish. Hold an honors degree from Moscow State University and IBM’s Data Analyst certification.
+Completed the Data Analyst course by Karpov.Courses to further strengthen analytical skills.
 
 My contacts:
 * 📲 [Telegram](https://t.me/@Magnetic_pole)
